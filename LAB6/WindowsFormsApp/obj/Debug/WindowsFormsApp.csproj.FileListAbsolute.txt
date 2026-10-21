@@ -1,0 +1,9 @@
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\bin\Debug\QuanLyHoSoBenhAn.exe.config
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\bin\Debug\QuanLyHoSoBenhAn.exe
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\bin\Debug\QuanLyHoSoBenhAn.pdb
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\obj\Debug\QuanLyHoSoBenhAn.Properties.Resources.resources
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\obj\Debug\QuanLyHoSoBenhAn.exe
+D:\N4HK1\PTPMHDT\B1\WindowsFormsApp\WindowsFormsApp\obj\Debug\QuanLyHoSoBenhAn.pdb
