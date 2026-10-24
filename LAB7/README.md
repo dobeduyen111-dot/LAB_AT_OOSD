@@ -10,7 +10,7 @@
 - SQL Server / SQL Server LocalDB
 - ADO.NET (`System.Data.SqlClient`)
 
-> Project sử dụng **.NET Framework**, không phải .NET Core hoặc .NET 5+.
+
 
 ## Chức năng
 
