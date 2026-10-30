@@ -1,0 +1,7 @@
+D:\N4HK1\PTPMHDT\B8\QuanLyVanPhong\QuanLyVanPhong\bin\Debug\QuanLyVanPhong.exe.config
+D:\N4HK1\PTPMHDT\B8\QuanLyVanPhong\QuanLyVanPhong\bin\Debug\QuanLyVanPhong.exe
+D:\N4HK1\PTPMHDT\B8\QuanLyVanPhong\QuanLyVanPhong\bin\Debug\QuanLyVanPhong.pdb
+D:\N4HK1\PTPMHDT\B8\QuanLyVanPhong\QuanLyVanPhong\obj\Debug\QuanLyVanPhong.csproj.AssemblyReference.cache
+D:\N4HK1\PTPMHDT\B8\QuanLyVanPhong\QuanLyVanPhong\obj\Debug\QuanLyVanPhong.csproj.CoreCompileInputs.cache
+D:\N4HK1\PTPMHDT\B8\QuanLyVanPhong\QuanLyVanPhong\obj\Debug\QuanLyVanPhong.exe
+D:\N4HK1\PTPMHDT\B8\QuanLyVanPhong\QuanLyVanPhong\obj\Debug\QuanLyVanPhong.pdb
